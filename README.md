@@ -52,7 +52,7 @@ To View this App on your own computer, first do the following:
 
 4. `Do What the File Says`
 
-  * Takes the text from random.txt and runs the song through spotify-this-song command
+  * Takes the text from random.txt and runs the song through the Find Song on Spotify command
 
 ## Node Packages Used
 - Node.js
