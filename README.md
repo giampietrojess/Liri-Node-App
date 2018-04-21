@@ -1,6 +1,6 @@
 # Liri-Node-App
 
-##Overview
+## Overview
 Created a Node.js application run in the command line called "Liri Bot", which takes in parameters and returns data based on one of four commands:
 
   * `View My Tweets`
@@ -11,7 +11,7 @@ Created a Node.js application run in the command line called "Liri Bot", which t
 
   * `Do What the File Says`
 
-##GIF Preview
+## GIF Preview
 
 **Link to Preview GIF** [https://drive.google.com/file/d/1ZOThWp9EdepxjbR_1zO2qO2SfniNTpUR/view] 
 
