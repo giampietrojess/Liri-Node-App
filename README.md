@@ -13,7 +13,7 @@ Created a Node.js application run in the command line called "Liri Bot", which t
 
 ## GIF Preview
 
-**Link to Preview GIF** [https://drive.google.com/file/d/1ZOThWp9EdepxjbR_1zO2qO2SfniNTpUR/view] 
+**Link to Screencastify Preview** [https://drive.google.com/file/d/1ZOThWp9EdepxjbR_1zO2qO2SfniNTpUR/view] 
 
 ## Getting Started
 To View this App on your own computer, first do the following: 
