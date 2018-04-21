@@ -125,7 +125,9 @@ function liriBrains(user) {
 	// Log searches to log.txt
 	var logTxt = 'A user entered: ' + user.technology + ' ' + user.search + '\n';
 
-  fs.appendFile('log.txt', logTxt);
+  fs.appendFile('log.txt', logTxt, function(err){
+	if (err) {console.log(err)}
+	});
 }
 
 // The Inquire function to prompt LIRI
