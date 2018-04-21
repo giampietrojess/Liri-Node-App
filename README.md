@@ -11,6 +11,10 @@ Created a Node.js application run in the command line called "Liri Bot", which t
 
   * `Do What the File Says`
 
+##GIF Preview
+
+**Link to Preview GIF** [https://drive.google.com/file/d/1ZOThWp9EdepxjbR_1zO2qO2SfniNTpUR/view] 
+
 ## Getting Started
 To View this App on your own computer, first do the following: 
 - Clone this repo onto your computer
