@@ -5,3 +5,7 @@ A user entered: spotify-this-song Do I Wanna Know
 A user entered: movie-this Thor
 A user entered: do-what-it-says undefined
 A user entered: spotify-this-song "I Want it That Way"
+A user entered: movie-this Thor
+A user entered: movie-this thor
+A user entered: my-tweets undefined
+A user entered: movie-this Waterworld
