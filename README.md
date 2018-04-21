@@ -59,8 +59,8 @@ To View this App on your own computer, first do the following:
 - Twitter NPM Package - https://www.npmjs.com/package/twitter
 - Spotify NPM Package - https://www.npmjs.com/package/spotify
 - Request NPM Package - https://www.npmjs.com/package/request
-- Colors NPM Package - 
-- Inquire NPM Package -
+- Colors NPM Package - https://www.npmjs.com/package/colors
+- Inquire NPM Package - https://www.npmjs.com/package/inquirer
 
 ## Prerequisites
 ```
