@@ -136,9 +136,9 @@ inquirer.prompt([
 		choices: [  
             { name: 'View my tweets', value: 'my-tweets' },
             { name: 'Find song on Spotify', value: 'spotify-this-song' },
-            { name: 'Get movie information', value: 'movie-this' },
-            { name: 'Perform task from file', value: 'do-what-it-says' }    ],
-            
+            { name: 'Get movie Information', value: 'movie-this' },
+            { name: 'Do What the File Says', value: 'do-what-it-says' }    ],
+
 		name: 'technology'
 	},
 	// Only displays if spotify was selected
